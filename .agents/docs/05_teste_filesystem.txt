@@ -1,0 +1,18 @@
+=== Listagem da Raiz do Workspace (Workspace Root Filesystem) ===
+Data: 2026-10-28 16:44:50
+Caminho: J:\antigravity projetos\projeto prompt engine
+
+Diretórios e Arquivos na Raiz:
+[DIR]  .agents/
+       ├── mcp_config.json
+       ├── docs/
+       │   ├── 00_INDICE.md
+       │   ├── 01_mcp_filesystem.md
+       │   ├── 02_mcp_github.md
+       │   ├── 03_skill_documentacao.md
+       │   └── 05_teste_filesystem.txt
+       └── skills/
+           └── documentacao-processo/
+               └── SKILL.md
+
+Status: Arquivos indexados e verificados com sucesso.

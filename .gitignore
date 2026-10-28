@@ -1,0 +1,21 @@
+# Dependências e caches
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ferramentas portáteis e binários locais
+.agents/tools/
+*.tmp
+*.log
+
+# Arquivos do sistema operacional
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Manter explicitamente documentação, configurações, scripts e skills
+!.agents/docs/
+!.agents/scripts/
+!.agents/skills/
+!.agents/mcp_config.json
