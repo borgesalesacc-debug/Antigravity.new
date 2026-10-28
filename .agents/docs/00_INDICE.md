@@ -1,6 +1,6 @@
 # Índice Mestre de Documentação e Auditoria (.agents/docs)
 
-Este índice registra todas as fases de diagnóstico, correções, integrações de MCP, criação de Skills, relatórios de auditoria e certificação de conclusão executados no workspace com governança oficial do Google Antigravity.
+Este índice registra todas as fases de diagnóstico, correções, integrações de MCP, criação de Skills, relatórios de auditoria, certificação de conclusão e publicação em repositório remoto executados no workspace com governança oficial do Google Antigravity.
 
 | Código | Descrição | Arquivo de Documentação | Status |
 | :--- | :--- | :--- | :--- |
@@ -23,8 +23,14 @@ Este índice registra todas as fases de diagnóstico, correções, integrações
 | **19** | Validação da Credencial GITHUB_PAT | [19_validacao_pat.md](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/docs/19_validacao_pat.md) | **Concluído** |
 | **20** | Teste Funcional do MCP Remoto GitHub | [20_teste_github_mcp.md](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/docs/20_teste_github_mcp.md) | **Concluído** |
 | **21** | Certificado de Homologação e Conclusão 100% | [21_CERTIFICADO_DE_CONCLUSAO.md](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/docs/21_CERTIFICADO_DE_CONCLUSAO.md) | **Concluído** |
+| **22** | Validação Visual do Painel de MCPs | [22_status_visual_mcp.md](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/docs/22_status_visual_mcp.md) | **Concluído** |
+| **23** | Registro de Publicação e Push no GitHub | [23_push_github.md](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/docs/23_push_github.md) | **Concluído** |
 
 ---
+
+## Repositório Remoto
+* **URL GitHub**: [`https://github.com/borgesalesacc-debug/Antigravity.new`](https://github.com/borgesalesacc-debug/Antigravity.new)
+* **Branch**: `main`
 
 ## Scripts Utilitários Disponíveis
 * [`.agents/scripts/check_env.ps1`](file:///j:/antigravity%20projetos/projeto%20prompt%20engine/.agents/scripts/check_env.ps1) - Diagnóstico contínuo de ambiente.
